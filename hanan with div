@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html >
+  <head><title>hanan turk</title>
+    <style>
+           .container {
+            background-color: lightblue;
+            width: 960px;
+            height: 760px;
+            margin-left : auto; 
+		    margin-right : auto;
+
+        }
+        .header {
+            background-color: lightgray;
+           margin-left: 250px;
+           margin-right: 250px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            height: 50px;
+            text-align: center;
+        }
+
+
+        .article {
+            background-color: lightpink;
+            width: 660px;
+            height: 120px;
+            float: left;
+            margin: 10px;
+        }
+        .ad-sidebar {
+            width: 250px;
+            height: 300px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        float: left;  
+        }
+
+      
+      </style>
+  </head>
+  <body>
+    
+    <div class="container">
+         
+        <div class="header"><h1>Hanan Hasan Abdelkrim Tork</h1></div>
+
+        <div class="article"><p>In addition to her artistic endeavors, Hanan is a global spokesperson for the international charity.
+            [1] She started her career as a ballerina and completed her studies at the Cairo Ballet Institute in 1993.
+             She then became a member of the Cairo Ballet Group and soon after moved to the Classical Ballet Group.
+            </p>
+            <a href="hanan_details" >click to see more information about hanan</a>
+        </div>
+
+        <div class="ad-sidebar"><img src = "hanan.jpg" alt = "hanan" width="250 px" height="300" ></div>
+         
+       
+         
+    </div>
+    
+    
+  </body>
+</html>
